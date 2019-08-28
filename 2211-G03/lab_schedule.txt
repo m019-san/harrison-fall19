@@ -1,1 +1,1 @@
-First lab: Constant acceleration 1-D motion and data fitting, due 9/4 by 3:00 pm (full lab)
+First lab: Constant acceleration 1-D motion and data fitting, due 9/9 by 3:00 pm (full lab)
